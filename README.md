@@ -1,5 +1,5 @@
-# tornardo-detection
-Adopt CNNs on the tornado detection task by using Tornet dataset
+# tornado-detection
+Adopt CNNs on the tornado detection task by using the Tornet dataset
 
 ## Dataset
 TorNet: the TorNet dataset as described in the paper [*A Benchmark Dataset for Tornado Detection and Prediction using Full-Resolution Polarimetric Weather Radar Data*](https://arxiv.org/abs/2401.16437)
